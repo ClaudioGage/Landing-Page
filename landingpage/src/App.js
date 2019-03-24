@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import './Resources/styles.css';
 
 
 class App extends Component {
